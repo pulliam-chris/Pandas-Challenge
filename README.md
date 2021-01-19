@@ -1,7 +1,8 @@
 # Pandas-Challenge
 Using Panda's and Jupyter Notebook to analyze school and attending student data.
 
-Primary file: PyCitySchools_main.ipynb 
+Primary file: PyCitySchools_main.ipynb
+ 
 **_Please run through the cells in sequence to review the output for each requested function._**
 
 ## Observable Trends from Results 
