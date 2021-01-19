@@ -1,11 +1,10 @@
 # Pandas-Challenge
 Using Panda's and Jupyter Notebook to analyze school and attending student data.
 
-**Primary file:** PyCitySchools_main.ipynb
+**Primary file: PyCitySchools_main.ipynb** 
 **_Please run through the cells in sequence to review the output for each requested function._**
 
-## Observable Trends from Results 
-### (also listed in marked-down cells within the .ipynb)
+## Observable Trends from Results (also listed in marked-down cells within the .ipynb)
 
 ### Scores by School Spending
  * It's a common conception that the lack of overall student success at schools is directly linked to limited budgets that don't allow for the sufficient resources for students.  The trend in the output above directly contradicts that conception.  Regardless of the school type, the more that was spent on a student per capita the lower the overall performances of the students in terms of average scores and passing rates. 
